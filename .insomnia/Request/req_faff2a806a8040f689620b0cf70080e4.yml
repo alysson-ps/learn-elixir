@@ -1,0 +1,21 @@
+_id: req_faff2a806a8040f689620b0cf70080e4
+type: Request
+parentId: wrk_3dfacfe248124158ac41f482ab779c29
+modified: 1644183757191
+created: 1644183731172
+url: "{{ _.host }}/teste"
+name: teste
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1644183731172
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
